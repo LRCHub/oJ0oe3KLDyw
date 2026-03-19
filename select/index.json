@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "base_track": "ナイトフィッシングイズグッド",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-03-19T13:01:31.325382Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ナイトフィッシングイズグッド",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_ナイトフィッシングイズグッド_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ナイトフィッシングイズグッド",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_ナイトフィッシングイズグッド_サカナクション.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナイトフィッシングイズグッド",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_ナイトフィッシングイズグッド_サカナクション.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ナイトフィッシングイズグッド",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/localdb_01_ナイトフィッシングイズグッド_サカナクション.lrc",
+      "repo_name": "vg2cGSPb-mw"
+    }
+  ]
+}
